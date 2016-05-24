@@ -1,4 +1,5 @@
 layout_spectrum: 1
+typography_spectrum: 0.9121864
 color:
   saturation: 0.617002
   brandStrength: 0.7246763
@@ -7,5 +8,4 @@ color:
     - '#FFFFFF'
     - '#000000'
   rhythmicContrast: 0.5009897
-typography_spectrum: 0.4007287
 name: Xinc
